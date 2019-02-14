@@ -15,6 +15,7 @@ lors de la phase de travail qui precede l'accouchement.
 La cardiotocographie est une analyse faite à partir de 2 données de base:
 - Le rythme cardiaque du foetus
 - L'intensité des contractions
+
 De ces données sont déduites les autres features: nombre d'accelerations du rythme cardiaque,
 nombre de décroissances legères, sevères ou prolongées, etc...
 
